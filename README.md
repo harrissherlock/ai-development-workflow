@@ -57,7 +57,7 @@ A reusable agent skill for software development with **GitHub Issues, branches, 
 python scripts/validate_skill.py
 ```
 
-欢迎通过 Issues 和 Pull Requests 提交建议或改进。许可证：[MIT](LICENSE)。
+欢迎通过 Issues 和 Pull Requests 提交建议或改进。版权 © 2026 harock。许可证：[MIT](LICENSE)。
 
 ## English
 
@@ -77,4 +77,4 @@ See [SKILL.md](SKILL.md), the [Chinese user guide](docs/guide.html), and [the ar
 
 ### License
 
-MIT. See [LICENSE](LICENSE).
+Copyright © 2026 harock. Licensed under MIT. See [LICENSE](LICENSE).
